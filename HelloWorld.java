@@ -17,7 +17,7 @@ public class HelloWorldDemo
       }
       else 
       {
-         return "Hello " + name + "!";
+         return "Hello " + name + "! is";
       }
    }
 
