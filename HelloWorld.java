@@ -1,5 +1,5 @@
 
-public class HelloWorldDemo 
+public class HelloWorld 
 {
 	
    private String name = "";
